@@ -68,13 +68,13 @@ namespace RazorPizzeria.Pages
             },
             new PizzasModel()
             {
-                ImageTitle="Seafood",
-                PizzaName="Seafood",
+                ImageTitle="CatPizza",
+                PizzaName="Cat Pizza",
                 BasePrice=2,
                 TomatoSauce=true,
                 Cheese=true,
                 Tuna=true,
-                FinalPrice=4
+                FinalPrice=69
 
             },
         };
